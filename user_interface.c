@@ -1,26 +1,20 @@
 /*****************************************************************
 //
-//  NAME:        Ravi Narayan
+//  NAME:        Will
 //
-//  HOMEWORK:    1
+//  DATE:        4/26/2023
 //
-//  CLASS:       ICS 212
-//
-//  INSTRUCTOR:  Ravi Narayan
-//
-//  DATE:        September 3, 2112
-//
-//  FILE:        template.c
+//  FILE:        user_interface.c
 //
 //  DESCRIPTION:
-//   Describe the file
-//
+//   contains user interface for a bankstorage database
+//   
 ****************************************************************/
 
 
 #include<stdio.h>
 #include<string.h>
-#include "database.c"
+
 
  void getAddress(char [], int);
  void getName();
